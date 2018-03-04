@@ -1,0 +1,1 @@
+{"php":"7.1.12-3+ubuntu16.04.1+deb.sury.org+1","version":"2.9.0","rules":{"align_multiline_comment":true,"no_trailing_whitespace":true,"no_short_echo_tag":true,"no_unused_imports":true,"array_syntax":{"syntax":"short"},"ordered_imports":{"sortAlgorithm":"length"}},"hashes":{"app\/Models\/User.php":2271118456}}
