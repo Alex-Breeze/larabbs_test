@@ -1,4 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);/*!
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);/* Fonts */
+
+/* Variables */
+
+/* Bootstrap */
+
+/*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors
  * Copyright 2011-2018 Twitter, Inc.
@@ -10004,6 +10010,8 @@ body {
   font-family: Hiragino Sans GB, "Hiragino Sans GB", Helvetica, "Microsoft YaHei", Arial,sans-serif;
 }
 
+/* header */
+
 .navbar-static-top {
   border-color: #e7e7e7;
   background-color: #fff;
@@ -10030,6 +10038,7 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
+  /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #000;
 }
@@ -10046,5 +10055,14 @@ body {
 
 .footer .container p a {
   color: inherit;
+}
+
+/* User register page */
+
+.register-page img.captcha {
+  margin-bottom: 0px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: red;
 }
 
