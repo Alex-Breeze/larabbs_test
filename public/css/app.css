@@ -10066,3 +10066,17 @@ body {
   background-color: red;
 }
 
+/* User profile page */
+
+.user-show-page .user-info .thumbnail {
+  margin-bottom: 0px;
+}
+
+.user-show-page .nav-tabs {
+  margin-bottom: 20px;
+}
+
+.user-show-page .nav-tabs > li.active > a {
+  background-color: #fff;
+}
+

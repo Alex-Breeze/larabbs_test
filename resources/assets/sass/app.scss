@@ -70,3 +70,21 @@ body {
     }
 }
 
+/* User profile page */
+.user-show-page {
+    .user-info {
+        .thumbnail {
+            margin-bottom: 0px;
+        }
+    }
+
+    .nav-tabs {
+        margin-bottom: 20px;
+
+        >li.active > a {
+            background-color: #fff;
+        }
+    }
+    
+}
+
